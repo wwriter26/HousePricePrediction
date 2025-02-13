@@ -4,6 +4,9 @@
 
 ## Skills: Data preprocessing, linear regression, model evaluation.
 
+This python application takes in user input for the house_size, num_bedrooms, num_bathrooms, garage_spaces, year_built, and location to determine the general price of a home that they want. Then We use matplotlib to properly visualize this, & mse and R^2 to show how accuate the model actually is.
+
+
 ### File structure
 
 │── src/ # Source code for model training
